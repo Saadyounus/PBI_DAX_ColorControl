@@ -1,0 +1,337 @@
+SA3_CODE21,SA3_NAME21,SA4_NAME21,State,Maps to,"Degree of similarity [0 = Not similar, 5 = Similar]"
+40101,Adelaide City,Adelaide - Central and Hills,South Australia,Purple,2.38
+40102,Adelaide Hills,Adelaide - Central and Hills,South Australia,Blue,1.49
+50901,Albany,Western Australia - Wheat Belt,Western Australia,Yellow,1.39
+10901,Albury,Murray,New South Wales,Blue,3.51
+70201,Alice Springs,Northern Territory - Outback,Northern Territory,Yellow,2.77
+50601,Armadale,Perth - South East,Western Australia,Purple,3.31
+11001,Armidale,New England and North West,New South Wales,Green,0.82
+12501,Auburn,Sydney - Parramatta,New South Wales,Yellow,2.94
+50101,Augusta - Margaret River - Busselton,Bunbury,Western Australia,Blue,3.83
+30201,Bald Hills - Everton Park,Brisbane - North,Queensland,Purple,4.87
+20101,Ballarat,Ballarat,Victoria,Purple,1.77
+11901,Bankstown,Sydney - Inner South West,New South Wales,Blue,4.86
+20901,Banyule,Melbourne - North East,Victoria,Blue,4.67
+70202,Barkly,Northern Territory - Outback,Northern Territory,Green,3.19
+40501,Barossa,Barossa - Yorke - Mid North,South Australia,Yellow,5.0
+20301,Barwon - West,Geelong,Victoria,Green,2.68
+10301,Bathurst,Central West,New South Wales,Purple,1.1
+11501,Baulkham Hills,Sydney - Baulkham Hills and Hawkesbury,New South Wales,Yellow,3.78
+20501,Baw Baw,Latrobe - Gippsland,Victoria,Green,0.83
+20801,Bayside,Melbourne - Inner South,Victoria,Green,2.02
+50401,Bayswater - Bassendean,Perth - North East,Western Australia,Purple,1.98
+31101,Beaudesert,Logan - Beaudesert,Queensland,Blue,0.47
+31102,Beenleigh,Logan - Beaudesert,Queensland,Green,3.36
+80101,Belconnen,Australian Capital Territory,Australian Capital Territory,Blue,0.92
+50602,Belmont - Victoria Park,Perth - South East,Western Australia,Yellow,2.53
+20201,Bendigo,Bendigo,Victoria,Yellow,0.3
+30804,Biloela,Central Queensland,Queensland,Blue,3.12
+11601,Blacktown,Sydney - Blacktown,New South Wales,Purple,1.91
+11602,Blacktown - North,Sydney - Blacktown,New South Wales,Purple,2.65
+12401,Blue Mountains,Sydney - Outer West and Blue Mountains,New South Wales,Green,3.56
+12402,Blue Mountains - South,Sydney - Outer West and Blue Mountains,New South Wales,Purple,4.98
+20701,Boroondara,Melbourne - Inner East,Victoria,Green,0.28
+11701,Botany,Sydney - City and Inner South,New South Wales,Yellow,3.41
+10501,Bourke - Cobar - Coonamble,Far West and Orana,New South Wales,Blue,0.51
+31201,Bowen Basin - North,Mackay - Isaac - Whitsunday,Queensland,Green,3.59
+31301,Bribie - Beachmere,Moreton Bay - North,Queensland,Yellow,4.46
+60101,Brighton,Hobart,Tasmania,Purple,2.44
+21301,Brimbank,Melbourne - West,Victoria,Green,3.59
+12701,Bringelly - Green Valley,Sydney - South West,New South Wales,Blue,3.34
+30501,Brisbane Inner,Brisbane Inner City,Queensland,Blue,4.32
+30502,Brisbane Inner - East,Brisbane Inner City,Queensland,Blue,1.76
+30503,Brisbane Inner - North,Brisbane Inner City,Queensland,Purple,3.4
+30504,Brisbane Inner - West,Brisbane Inner City,Queensland,Blue,4.7
+30901,Broadbeach - Burleigh,Gold Coast,Queensland,Blue,2.54
+10502,Broken Hill and Far West,Far West and Orana,New South Wales,Purple,0.48
+31103,Browns Plains,Logan - Beaudesert,Queensland,Green,4.03
+20601,Brunswick - Coburg,Melbourne - Inner,Victoria,Purple,1.43
+31601,Buderim,Sunshine Coast,Queensland,Purple,2.25
+50102,Bunbury,Bunbury,Western Australia,Green,3.03
+31901,Bundaberg,Wide Bay,Queensland,Yellow,2.07
+31902,Burnett,Wide Bay,Queensland,Blue,2.71
+60401,Burnie - Ulverstone,West and North West,Tasmania,Green,0.96
+40103,Burnside,Adelaide - Central and Hills,South Australia,Purple,4.27
+31302,Caboolture,Moreton Bay - North,Queensland,Yellow,3.89
+31303,Caboolture Hinterland,Moreton Bay - North,Queensland,Green,0.88
+30601,Cairns - North,Cairns,Queensland,Yellow,4.39
+30602,Cairns - South,Cairns,Queensland,Blue,0.89
+31602,Caloundra,Sunshine Coast,Queensland,Green,4.2
+12301,Camden,Sydney - Outer South West,New South Wales,Purple,4.73
+21601,Campaspe,Shepparton,Victoria,Purple,2.8
+12302,Campbelltown (NSW),Sydney - Outer South West,New South Wales,Green,1.33
+40104,Campbelltown (SA),Adelaide - Central and Hills,South Australia,Purple,2.69
+12001,Canada Bay,Sydney - Inner West,New South Wales,Green,0.76
+80103,Canberra East,Australian Capital Territory,Australian Capital Territory,Yellow,1.26
+50603,Canning,Perth - South East,Western Australia,Blue,0.06
+11902,Canterbury,Sydney - Inner South West,New South Wales,Green,2.54
+30101,Capalaba,Brisbane - East,Queensland,Yellow,4.49
+21201,Cardinia,Melbourne - South East,Victoria,Blue,4.66
+30301,Carindale,Brisbane - South,Queensland,Yellow,0.9
+12502,Carlingford,Sydney - Parramatta,New South Wales,Green,2.94
+21202,Casey - North,Melbourne - South East,Victoria,Yellow,4.69
+21203,Casey - South,Melbourne - South East,Victoria,Green,1.32
+30401,Centenary,Brisbane - West,Queensland,Green,1.0
+30801,Central Highlands (Qld),Central Queensland,Queensland,Green,1.82
+60301,Central Highlands (Tas.),South East,Tasmania,Purple,1.35
+40401,Charles Sturt,Adelaide - West,South Australia,Purple,1.39
+31801,Charters Towers - Ayr - Ingham,Townsville,Queensland,Green,1.92
+12101,Chatswood - Lane Cove,Sydney - North Sydney and Hornsby,New South Wales,Purple,0.1
+30202,Chermside,Brisbane - North,Queensland,Green,4.63
+10401,Clarence Valley,Coffs Harbour - Grafton,New South Wales,Blue,1.39
+30102,Cleveland - Stradbroke,Brisbane - East,Queensland,Green,3.41
+50701,Cockburn,Perth - South West,Western Australia,Purple,0.88
+10402,Coffs Harbour,Coffs Harbour - Grafton,New South Wales,Green,4.79
+21703,Colac - Corangamite,Warrnambool and South West,Victoria,Green,2.15
+30902,Coolangatta,Gold Coast,Queensland,Purple,1.63
+50301,Cottesloe - Claremont,Perth - Inner,Western Australia,Yellow,2.89
+20102,Creswick - Daylesford - Ballan,Ballarat,Victoria,Purple,2.34
+12801,Cronulla - Miranda - Caringbah,Sydney - Sutherland,New South Wales,Purple,4.04
+70203,Daly - Tiwi - West Arnhem,Northern Territory - Outback,Northern Territory,Purple,0.51
+21204,Dandenong,Melbourne - South East,Victoria,Yellow,3.71
+10701,Dapto - Port Kembla,Illawarra,New South Wales,Blue,2.89
+20902,Darebin - North,Melbourne - North East,Victoria,Green,3.35
+20602,Darebin - South,Melbourne - Inner,Victoria,Purple,0.77
+30701,Darling Downs (West) - Maranoa,Darling Downs - Maranoa,Queensland,Yellow,1.93
+30702,Darling Downs - East,Darling Downs - Maranoa,Queensland,Green,1.27
+70101,Darwin City,Darwin,Northern Territory,Green,1.48
+70102,Darwin Suburbs,Darwin,Northern Territory,Blue,0.9
+60402,Devonport,West and North West,Tasmania,Purple,1.38
+10503,Dubbo,Far West and Orana,New South Wales,Blue,3.02
+11502,Dural - Wisemans Ferry,Sydney - Baulkham Hills and Hawkesbury,New South Wales,Yellow,0.76
+70204,East Arnhem,Northern Territory - Outback,Northern Territory,Yellow,2.87
+51002,East Pilbara,Western Australia - Outback (North),Western Australia,Purple,4.25
+11801,Eastern Suburbs - North,Sydney - Eastern Suburbs,New South Wales,Purple,0.79
+11802,Eastern Suburbs - South,Sydney - Eastern Suburbs,New South Wales,Yellow,4.77
+51101,Esperance,Western Australia - Outback (South),Western Australia,Blue,3.99
+20603,Essendon,Melbourne - Inner,Victoria,Blue,1.09
+40601,Eyre Peninsula and South West,South Australia - Outback,South Australia,Green,1.0
+12702,Fairfield,Sydney - South West,New South Wales,Green,2.7
+31501,Far North,Queensland - Outback,Queensland,Purple,3.06
+40701,Fleurieu - Kangaroo Island,South Australia - South East,South Australia,Green,0.63
+31001,Forest Lake - Oxley,Ipswich,Queensland,Purple,3.38
+21401,Frankston,Mornington Peninsula,Victoria,Purple,4.15
+50702,Fremantle,Perth - South West,Western Australia,Blue,3.08
+51102,Gascoyne,Western Australia - Outback (South),Western Australia,Blue,1.4
+40201,Gawler - Two Wells,Adelaide - North,South Australia,Purple,3.62
+20302,Geelong,Geelong,Victoria,Green,2.11
+20502,Gippsland - East,Latrobe - Gippsland,Victoria,Purple,2.41
+20503,Gippsland - South West,Latrobe - Gippsland,Victoria,Purple,4.51
+30805,Gladstone,Central Queensland,Queensland,Yellow,3.6
+20802,Glen Eira,Melbourne - Inner South,Victoria,Green,2.89
+21701,Glenelg - Southern Grampians,Warrnambool and South West,Victoria,Blue,2.91
+30903,Gold Coast - North,Gold Coast,Queensland,Blue,2.77
+30904,Gold Coast Hinterland,Gold Coast,Queensland,Green,2.1
+51103,Goldfields,Western Australia - Outback (South),Western Australia,Blue,2.78
+10201,Gosford,Central Coast,New South Wales,Green,1.16
+50604,Gosnells,Perth - South East,Western Australia,Purple,4.11
+10105,Goulburn - Mulwaree,Capital Region,New South Wales,Yellow,2.95
+21501,Grampians,North West,Victoria,Green,3.19
+30703,Granite Belt,Darling Downs - Maranoa,Queensland,Purple,0.01
+10801,Great Lakes,Mid North Coast,New South Wales,Yellow,1.9
+11301,Griffith - Murrumbidgee (West),Riverina,New South Wales,Green,1.23
+80104,Gungahlin,Australian Capital Territory,Australian Capital Territory,Purple,0.57
+31903,Gympie - Cooloola,Wide Bay,Queensland,Purple,0.31
+11503,Hawkesbury,Sydney - Baulkham Hills and Hawkesbury,New South Wales,Green,3.96
+20202,Heathcote - Castlemaine - Kyneton,Bendigo,Victoria,Blue,4.0
+31904,Hervey Bay,Wide Bay,Queensland,Purple,1.95
+60102,Hobart - North East,Hobart,Tasmania,Green,3.45
+60103,Hobart - North West,Hobart,Tasmania,Purple,2.24
+60104,Hobart - South and West,Hobart,Tasmania,Yellow,0.47
+60105,Hobart Inner,Hobart,Tasmania,Green,2.02
+21302,Hobsons Bay,Melbourne - West,Victoria,Green,3.44
+40301,Holdfast Bay,Adelaide - South,South Australia,Purple,0.91
+30302,Holland Park - Yeronga,Brisbane - South,Queensland,Blue,3.91
+12102,Hornsby,Sydney - North Sydney and Hornsby,New South Wales,Blue,4.39
+60302,Huon - Bruny Island,South East,Tasmania,Blue,1.15
+11903,Hurstville,Sydney - Inner South West,New South Wales,Yellow,4.35
+10702,Illawarra Catchment Reserve,Illawarra,New South Wales,Yellow,0.23
+30603,Innisfail - Cassowary Coast,Cairns,Queensland,Blue,0.19
+11002,Inverell - Tenterfield,New England and North West,New South Wales,Purple,1.35
+31002,Ipswich Hinterland,Ipswich,Queensland,Purple,3.97
+31003,Ipswich Inner,Ipswich,Queensland,Green,3.29
+90103,Jervis Bay,Other Territories,Other Territories,Purple,2.25
+31104,Jimboomba,Logan - Beaudesert,Queensland,Green,0.12
+50501,Joondalup,Perth - North West,Western Australia,Blue,4.25
+50605,Kalamunda,Perth - South East,Western Australia,Yellow,2.17
+70205,Katherine,Northern Territory - Outback,Northern Territory,Purple,2.39
+21001,Keilor,Melbourne - North West,Victoria,Blue,2.29
+10802,Kempsey - Nambucca,Mid North Coast,New South Wales,Purple,3.18
+30402,Kenmore - Brookfield - Moggill,Brisbane - West,Queensland,Purple,1.75
+10703,Kiama - Shellharbour,Illawarra,New South Wales,Green,3.87
+51001,Kimberley,Western Australia - Outback (North),Western Australia,Purple,1.68
+20803,Kingston,Melbourne - Inner South,Victoria,Yellow,3.1
+21101,Knox,Melbourne - Outer East,Victoria,Yellow,4.4
+11904,Kogarah - Rockdale,Sydney - Inner South West,New South Wales,Blue,4.21
+12103,Ku-ring-gai,Sydney - North Sydney and Hornsby,New South Wales,Blue,1.2
+50703,Kwinana,Perth - South West,Western Australia,Purple,2.32
+10302,Lachlan Valley,Central West,New South Wales,Blue,4.05
+11101,Lake Macquarie - East,Newcastle and Lake Macquarie,New South Wales,Yellow,4.03
+11102,Lake Macquarie - West,Newcastle and Lake Macquarie,New South Wales,Purple,1.34
+20504,Latrobe Valley,Latrobe - Gippsland,Victoria,Green,1.89
+60201,Launceston,Launceston and North East,Tasmania,Blue,2.37
+12002,Leichhardt,Sydney - Inner West,New South Wales,Green,2.7
+40702,Limestone Coast,South Australia - South East,South Australia,Yellow,2.82
+70103,Litchfield,Darwin,Northern Territory,Yellow,3.54
+10303,Lithgow - Mudgee,Central West,New South Wales,Yellow,3.79
+12703,Liverpool,Sydney - South West,New South Wales,Purple,1.21
+20203,Loddon - Elmore,Bendigo,Victoria,Yellow,1.24
+31105,Loganlea - Carbrook,Logan - Beaudesert,Queensland,Green,4.92
+10601,Lower Hunter,Hunter Valley exc Newcastle,New South Wales,Yellow,3.65
+10902,Lower Murray,Murray,New South Wales,Yellow,3.05
+40502,Lower North,Barossa - Yorke - Mid North,South Australia,Blue,1.12
+21002,Macedon Ranges,Melbourne - North West,Victoria,Yellow,0.05
+31202,Mackay,Mackay - Isaac - Whitsunday,Queensland,Purple,2.47
+10602,Maitland,Hunter Valley exc Newcastle,New South Wales,Yellow,4.87
+50201,Mandurah,Mandurah,Western Australia,Green,4.82
+50103,Manjimup,Bunbury,Western Australia,Yellow,3.89
+12201,Manly,Sydney - Northern Beaches,New South Wales,Yellow,0.43
+21102,Manningham - East,Melbourne - Outer East,Victoria,Blue,1.42
+20702,Manningham - West,Melbourne - Inner East,Victoria,Yellow,4.26
+21303,Maribyrnong,Melbourne - West,Victoria,Blue,2.53
+40302,Marion,Adelaide - South,South Australia,Blue,1.9
+31603,Maroochy,Sunshine Coast,Queensland,Blue,3.83
+21103,Maroondah,Melbourne - Outer East,Victoria,Purple,4.17
+11702,Marrickville - Sydenham - Petersham,Sydney - City and Inner South,New South Wales,Blue,3.84
+31905,Maryborough,Wide Bay,Queensland,Yellow,4.28
+20103,Maryborough - Pyrenees,Ballarat,Victoria,Yellow,3.37
+60202,Meander Valley - West Tamar,Launceston and North East,Tasmania,Blue,2.13
+20604,Melbourne City,Melbourne - Inner,Victoria,Yellow,2.9
+21304,Melton - Bacchus Marsh,Melbourne - West,Victoria,Blue,4.53
+50704,Melville,Perth - South West,Western Australia,Blue,1.61
+12503,Merrylands - Guildford,Sydney - Parramatta,New South Wales,Yellow,0.35
+40503,Mid North,Barossa - Yorke - Mid North,South Australia,Yellow,3.91
+51104,Mid West,Western Australia - Outback (South),Western Australia,Green,0.43
+21502,Mildura,North West,Victoria,Blue,0.81
+40303,Mitcham,Adelaide - South,South Australia,Green,2.27
+21602,Moira,Shepparton,Victoria,Yellow,0.38
+80110,Molonglo,Australian Capital Territory,Australian Capital Territory,Purple,3.03
+21205,Monash,Melbourne - South East,Victoria,Green,1.36
+11003,Moree - Narrabri,New England and North West,New South Wales,Green,3.42
+21003,Moreland - North,Melbourne - North West,Victoria,Yellow,0.37
+21402,Mornington Peninsula,Mornington Peninsula,Victoria,Yellow,0.02
+11603,Mount Druitt,Sydney - Blacktown,New South Wales,Yellow,3.4
+30303,Mt Gravatt,Brisbane - South,Queensland,Purple,4.01
+30905,Mudgeeraba - Tallebudgera,Gold Coast,Queensland,Purple,3.39
+50402,Mundaring,Perth - North East,Western Australia,Green,0.38
+21503,Murray River - Swan Hill,North West,Victoria,Purple,2.76
+40703,Murray and Mallee,South Australia - South East,South Australia,Green,2.33
+31607,Nambour,Sunshine Coast,Queensland,Blue,1.17
+31304,Narangba - Burpengary,Moreton Bay - North,Queensland,Purple,0.25
+30304,Nathan,Brisbane - South,Queensland,Green,1.33
+30906,Nerang,Gold Coast,Queensland,Green,3.08
+11103,Newcastle,Newcastle and Lake Macquarie,New South Wales,Green,4.57
+20903,Nillumbik - Kinglake,Melbourne - North East,Victoria,Blue,1.19
+31605,Noosa,Sunshine Coast,Queensland,Purple,3.13
+31608,Noosa Hinterland,Sunshine Coast,Queensland,Blue,1.6
+80105,North Canberra,Australian Capital Territory,Australian Capital Territory,Yellow,2.0
+60203,North East,Launceston and North East,Tasmania,Blue,1.76
+31402,North Lakes,Moreton Bay - South,Queensland,Purple,3.34
+12104,North Sydney - Mosman,Sydney - North Sydney and Hornsby,New South Wales,Green,4.39
+40105,Norwood - Payneham - St Peters,Adelaide - Central and Hills,South Australia,Green,2.44
+30203,Nundah,Brisbane - North,Queensland,Green,4.32
+40304,Onkaparinga,Adelaide - South,South Australia,Blue,3.81
+10304,Orange,Central West,New South Wales,Green,3.49
+30907,Ormeau - Oxenford,Gold Coast,Queensland,Blue,2.03
+31502,Outback - North,Queensland - Outback,Queensland,Purple,4.15
+40602,Outback - North and East,South Australia - Outback,South Australia,Yellow,3.11
+31503,Outback - South,Queensland - Outback,Queensland,Purple,4.49
+70104,Palmerston,Darwin,Northern Territory,Green,1.37
+12504,Parramatta,Sydney - Parramatta,New South Wales,Yellow,1.14
+12601,Pennant Hills - Epping,Sydney - Ryde,New South Wales,Yellow,4.3
+12403,Penrith,Sydney - Outer West and Blue Mountains,New South Wales,Blue,2.19
+50302,Perth City,Perth - Inner,Western Australia,Blue,2.88
+12202,Pittwater,Sydney - Northern Beaches,New South Wales,Purple,4.08
+40202,Playford,Adelaide - North,South Australia,Purple,4.6
+40203,Port Adelaide - East,Adelaide - North,South Australia,Yellow,4.53
+40402,Port Adelaide - West,Adelaide - West,South Australia,Purple,1.26
+30604,Port Douglas - Daintree,Cairns,Queensland,Purple,1.73
+10804,Port Macquarie,Mid North Coast,New South Wales,Blue,0.81
+20605,Port Phillip,Melbourne - Inner,Victoria,Yellow,3.74
+10603,Port Stephens,Hunter Valley exc Newcastle,New South Wales,Purple,0.39
+40106,Prospect - Walkerville,Adelaide - Central and Hills,South Australia,Blue,2.18
+10102,Queanbeyan,Capital Region,New South Wales,Yellow,0.13
+31305,Redcliffe,Moreton Bay - North,Queensland,Green,4.59
+12404,Richmond - Windsor,Sydney - Outer West and Blue Mountains,New South Wales,Purple,0.61
+11201,Richmond Valley - Coastal,Richmond - Tweed,New South Wales,Blue,1.06
+11202,Richmond Valley - Hinterland,Richmond - Tweed,New South Wales,Purple,1.98
+30908,Robina,Gold Coast,Queensland,Yellow,1.52
+30803,Rockhampton,Central Queensland,Queensland,Yellow,4.74
+50705,Rockingham,Perth - South West,Western Australia,Green,4.15
+30305,Rocklea - Acacia Ridge,Brisbane - South,Queensland,Yellow,1.91
+11504,Rouse Hill - McGraths Hill,Sydney - Baulkham Hills and Hawkesbury,New South Wales,Purple,2.98
+12602,Ryde - Hunters Hill,Sydney - Ryde,New South Wales,Yellow,2.57
+40204,Salisbury,Adelaide - North,South Australia,Yellow,0.42
+30204,Sandgate,Brisbane - North,Queensland,Green,4.41
+50606,Serpentine - Jarrahdale,Perth - South East,Western Australia,Blue,3.18
+21603,Shepparton,Shepparton,Victoria,Green,2.73
+30403,Sherwood - Indooroopilly,Brisbane - West,Queensland,Green,1.11
+11401,Shoalhaven,Southern Highlands and Shoalhaven,New South Wales,Purple,1.81
+10103,Snowy Mountains,Capital Region,New South Wales,Blue,1.22
+60106,Sorell - Dodges Ferry,Hobart,Tasmania,Green,1.53
+80106,South Canberra,Australian Capital Territory,Australian Capital Territory,Yellow,2.89
+10104,South Coast,Capital Region,New South Wales,Green,3.68
+60303,South East Coast,South East,Tasmania,Green,1.58
+50607,South Perth,Perth - South East,Western Australia,Purple,3.54
+11402,Southern Highlands,Southern Highlands and Shoalhaven,New South Wales,Green,2.55
+30909,Southport,Gold Coast,Queensland,Green,2.15
+31004,Springfield - Redbank,Ipswich,Queensland,Blue,2.58
+31106,Springwood - Kingston,Logan - Beaudesert,Queensland,Yellow,2.28
+12405,St Marys,Sydney - Outer West and Blue Mountains,New South Wales,Green,0.32
+50502,Stirling,Perth - North West,Western Australia,Yellow,3.98
+20804,Stonnington - East,Melbourne - Inner South,Victoria,Purple,3.29
+20606,Stonnington - West,Melbourne - Inner,Victoria,Yellow,0.25
+12003,Strathfield - Burwood - Ashfield,Sydney - Inner West,New South Wales,Yellow,2.99
+31403,Strathpine,Moreton Bay - South,Queensland,Blue,4.75
+21004,Sunbury,Melbourne - North West,Victoria,Green,2.53
+30306,Sunnybank,Brisbane - South,Queensland,Yellow,4.29
+31606,Sunshine Coast Hinterland,Sunshine Coast,Queensland,Blue,2.2
+20303,Surf Coast - Bellarine Peninsula,Geelong,Victoria,Blue,2.31
+30910,Surfers Paradise,Gold Coast,Queensland,Blue,2.32
+12802,Sutherland - Menai - Heathcote,Sydney - Sutherland,New South Wales,Green,0.47
+50403,Swan,Perth - North East,Western Australia,Green,0.51
+11703,Sydney Inner City,Sydney - City and Inner South,New South Wales,Blue,0.56
+30605,Tablelands (East) - Kuranda,Cairns,Queensland,Blue,2.18
+11004,Tamworth - Gunnedah,New England and North West,New South Wales,Yellow,1.15
+10805,Taree - Gloucester,Mid North Coast,New South Wales,Blue,1.05
+40205,Tea Tree Gully,Adelaide - North,South Australia,Purple,0.68
+30404,The Gap - Enoggera,Brisbane - West,Queensland,Green,1.99
+31401,The Hills District,Moreton Bay - South,Queensland,Yellow,2.28
+31701,Toowoomba,Toowoomba,Queensland,Yellow,0.69
+31802,Townsville,Townsville,Queensland,Green,3.53
+80107,Tuggeranong,Australian Capital Territory,Australian Capital Territory,Yellow,0.76
+21005,Tullamarine - Broadmeadows,Melbourne - North West,Victoria,Green,4.67
+11302,Tumut - Tumbarumba,Riverina,New South Wales,Blue,3.74
+11203,Tweed Valley,Richmond - Tweed,New South Wales,Purple,0.71
+40107,Unley,Adelaide - Central and Hills,South Australia,Yellow,1.94
+20401,Upper Goulburn Valley,Hume,Victoria,Yellow,2.22
+10604,Upper Hunter,Hunter Valley exc Newcastle,New South Wales,Blue,4.15
+10903,Upper Murray exc. Albury,Murray,New South Wales,Green,2.67
+80111,Uriarra - Namadgi,Australian Capital Territory,Australian Capital Territory,Green,3.88
+11303,Wagga Wagga,Riverina,New South Wales,Purple,4.49
+20402,Wangaratta - Benalla,Hume,Victoria,Yellow,0.25
+50503,Wanneroo,Perth - North West,Western Australia,Yellow,1.74
+12203,Warringah,Sydney - Northern Beaches,New South Wales,Green,0.64
+21704,Warrnambool,Warrnambool and South West,Victoria,Yellow,1.54
+20505,Wellington,Latrobe - Gippsland,Victoria,Purple,1.33
+60403,West Coast,West and North West,Tasmania,Blue,4.9
+51003,West Pilbara,Western Australia - Outback (North),Western Australia,Green,2.44
+40403,West Torrens,Adelaide - West,South Australia,Yellow,2.35
+80108,Weston Creek,Australian Capital Territory,Australian Capital Territory,Blue,0.43
+50902,Wheat Belt - North,Western Australia - Wheat Belt,Western Australia,Purple,1.22
+50903,Wheat Belt - South,Western Australia - Wheat Belt,Western Australia,Purple,2.85
+21104,Whitehorse - East,Melbourne - Outer East,Victoria,Blue,3.06
+20703,Whitehorse - West,Melbourne - Inner East,Victoria,Yellow,2.98
+31203,Whitsunday,Mackay - Isaac - Whitsunday,Queensland,Green,0.74
+20904,Whittlesea - Wallan,Melbourne - North East,Victoria,Purple,0.65
+80109,Woden Valley,Australian Capital Territory,Australian Capital Territory,Green,0.59
+20403,Wodonga - Alpine,Hume,Victoria,Yellow,4.84
+12303,Wollondilly,Sydney - Outer South West,New South Wales,Purple,4.82
+10704,Wollongong,Illawarra,New South Wales,Yellow,4.28
+21305,Wyndham,Melbourne - West,Victoria,Yellow,0.46
+30103,Wynnum - Manly,Brisbane - East,Queensland,Yellow,1.77
+10202,Wyong,Central Coast,New South Wales,Yellow,2.81
+20607,Yarra,Melbourne - Inner,Victoria,Purple,2.51
+21105,Yarra Ranges,Melbourne - Outer East,Victoria,Yellow,3.34
+40504,Yorke Peninsula,Barossa - Yorke - Mid North,South Australia,Yellow,3.77
+10106,Young - Yass,Capital Region,New South Wales,Yellow,0.15
